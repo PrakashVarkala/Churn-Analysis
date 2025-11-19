@@ -51,7 +51,7 @@ The demographic spreads of existing vs attrited customers are almost identical �
 
 ## 2️⃣ **Existing vs Attrited Dashboard – Behavioral Driver Analysis**
 
-https://github.com/user-attachments/assets/2d8f518d-73a9-46b1-afe1-9e3363e0b6e4
+![image alt](https://github.com/user-attachments/assets/2d8f518d-73a9-46b1-afe1-9e3363e0b6e4)
 
 ### 🔍 **Key Strengths:**
 - KPI cards compare existing vs attrited customers for:
@@ -70,7 +70,7 @@ Attrited customers show **higher inactivity**, **lower usage**, and **more servi
 
 ## 3️⃣ **Attrited Customer Profile – Sankey Flow**
 
-https://github.com/user-attachments/assets/ffdb71fc-321d-468f-b24f-cb80f8803e27
+![image alt](https://github.com/user-attachments/assets/ffdb71fc-321d-468f-b24f-cb80f8803e27)
 
 ### 🔍 **Key Strengths:**
 - Sankey chart shows how attrited customers flow across:
@@ -85,7 +85,7 @@ No specific demographic group displays disproportionate attrition. Attrition is 
 
 ## 4️⃣ **KPI Comparison Cards – Existing vs Attrited (Top Summary)**
 
-https://github.com/user-attachments/assets/e5697bdf-1e07-496d-8de0-bffe1c5a8b64
+![image alt](https://github.com/user-attachments/assets/e5697bdf-1e07-496d-8de0-bffe1c5a8b64)
 
 ### 🔍 **Key Strengths:**
 - Direct comparison of:
