@@ -35,7 +35,7 @@ Instead, churn is strongly linked to:
 
 ## 1️⃣ **Overview Page – Customer Demographics & High-Level Metrics**
 
-![image alt](https://github.com/user-attachments/assets/94cb03e2-4f6a-4e45-bfe3-33da50f0342c)
+![image alt](https://github.com/PrakashVarkala/Churn-Analysis/blob/381ae7a0bae6455f7d925bfd42b856f0f649c313/Screenshot%202025-11-14%20183545.png)
 
 
 ### 🔍 **Key Strengths:**
